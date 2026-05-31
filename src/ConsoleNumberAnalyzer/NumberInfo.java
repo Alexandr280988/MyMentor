@@ -9,6 +9,7 @@ public class NumberInfo {
         int n = sc.nextInt();
         InfoNumber info = new InfoNumber();
         info.infoNum(n);
+
 //        info.isEven(n);
 //        info.singNum(n);
 //        System.out.println(info.getDigitCountsString(n));
