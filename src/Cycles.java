@@ -39,5 +39,3 @@ public class Cycles {
         System.out.println("Количество цифр: " + count);
     }
 }
-
-
