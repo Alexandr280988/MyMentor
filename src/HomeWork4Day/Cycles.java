@@ -1,5 +1,8 @@
+package HomeWork4Day;
+
 public class Cycles {
     static void main() {
+        // Тут задачи по циклам
 
         int n = 10;
 //        for (int i = 0; i < n; i++) {

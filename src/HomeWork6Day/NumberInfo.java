@@ -1,4 +1,4 @@
-package ConsoleNumberAnalyzer;
+package HomeWork6Day;
 
 import java.util.Scanner;
 

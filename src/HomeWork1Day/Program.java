@@ -1,4 +1,4 @@
-package FitstApp;
+package HomeWork1Day;
 
 public class Program {
     static void main() {

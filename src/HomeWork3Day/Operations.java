@@ -1,9 +1,12 @@
-package IfElse;
+package HomeWork3Day;
 import java.util.Scanner;
 
 public class Operations {
     static void main() {
         Scanner sc = new Scanner(System.in);
+        // Тут 5 задача по теме
+
+
 //        System.out.println("Введите число: ");
 //        int number = Integer.parseInt(sc.nextLine());
 //        if (number % 2 == 0) {

@@ -1,4 +1,4 @@
-package FiveDay;
+package HomeWork5Day;
 
 public class Methods {
     static void main() {
