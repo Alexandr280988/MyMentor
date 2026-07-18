@@ -1,4 +1,4 @@
-package HomeWork6Day;
+package WeekOne.HomeWork6Day;
 
 import java.util.Scanner;
 

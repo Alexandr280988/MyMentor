@@ -1,5 +1,4 @@
-package HomeWork2Day;
-import java.util.Scanner;
+package WeekOne.HomeWork2Day;
 
 public class Info {
     static void main() {

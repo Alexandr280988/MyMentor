@@ -1,4 +1,4 @@
-package HomeWork1Day;
+package WeekOne.HomeWork1Day;
 
 public class Program {
     static void main() {

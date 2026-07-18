@@ -1,4 +1,4 @@
-package HomeWork4Day;
+package WeekOne.HomeWork4Day;
 
 public class Cycles {
     static void main() {

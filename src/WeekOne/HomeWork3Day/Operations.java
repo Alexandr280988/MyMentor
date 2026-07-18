@@ -1,4 +1,4 @@
-package HomeWork3Day;
+package WeekOne.HomeWork3Day;
 import java.util.Scanner;
 
 public class Operations {
@@ -39,6 +39,6 @@ public class Operations {
         int temperature = 5;
         if (temperature < 0) {
             System.out.println("На улице мороз");
-        } else { System.out.println("На улице мороз"); }
+        } else { System.out.println("На улице тепло"); }
     }
 }

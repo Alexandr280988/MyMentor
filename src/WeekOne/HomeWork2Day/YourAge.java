@@ -1,4 +1,4 @@
-package HomeWork2Day;
+package WeekOne.HomeWork2Day;
 import java.util.Scanner;
 
 public class YourAge {
