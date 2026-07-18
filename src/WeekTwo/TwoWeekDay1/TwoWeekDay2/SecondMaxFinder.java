@@ -1,4 +1,4 @@
-package TwoWeekDay2;
+package WeekTwo.TwoWeekDay1.TwoWeekDay2;
 
 public class SecondMaxFinder {
     public static void main(String[] args) {
